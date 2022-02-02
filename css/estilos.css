@@ -4,11 +4,11 @@ body {
     background-color: palegoldenrod;
 }
 #cabecera {
-    background: red;
+    background: blue;
     color: white;
     margin: 0;
     padding: 0.5em;
-}
+}s
 #container {
     width: 70%;
     padding: 1em;
