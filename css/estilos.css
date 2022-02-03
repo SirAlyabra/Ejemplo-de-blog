@@ -29,3 +29,9 @@ body {
 header {
     background: green;
 }
+
+#id_footer {
+    background: black;
+    text-align: center;
+    color: white;
+}
