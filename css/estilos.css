@@ -26,3 +26,8 @@ body {
 #post {
     padding: 1em;
 }
+#id_footer {
+    background: black;
+    text-align: center;
+    color: white;
+}
